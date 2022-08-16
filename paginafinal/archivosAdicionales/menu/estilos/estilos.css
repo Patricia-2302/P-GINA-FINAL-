@@ -1,0 +1,26 @@
+
+#bnavegacion ul{
+    font-size: 30px;
+    list-style-type: none;
+    text-align: center;
+    background-color: rgb(0, 0, 0);height: 50px;; }
+    
+
+    #bnavegacion li{
+        background-color: #000000;
+        display: inline;
+        text-align: center;
+        margin: 0 10px 0 0;}
+
+        #bnavegacion li a:hover{
+            text-align: center;
+            background-color: #8988d4;
+            color: #ffffff;}
+
+            #bnavegacion li a {
+                padding: 2px 7px 2px 7px;
+                color: rgb(255, 255, 255);
+                background-color: #000000;
+                border: 1px solid rgb(0, 0, 0);
+                text-decoration: none;
+                text-align: center;}

@@ -1,0 +1,79 @@
+body{
+    background: url(../imagenes/fondo.jpg);  }
+ 
+#titulo h1{
+    text-align: center;
+    color: rgb(30, 13, 61); 
+    font-size: 80px; 
+    line-height: 1.6; 
+    text-transform: uppercase;  
+    font-weight: bold; 
+    letter-spacing: 2px;
+    background-color: rgb(113, 194, 226);}
+
+
+ .contenedor3{
+        width: 100%;
+        height: 850px;
+        border: 10px solid rgb(255, 255, 255);
+        display: flex;
+       }
+    .subcontenedor1{
+        background-color: bisque;
+        border: 10px solid rgb(255, 255, 255) ;
+        width: 50%;
+        height: 100%; }
+
+                .foto1 {
+                width: 200px;
+                height: 300px;
+                display: flex; }
+        .texto1 {
+        text-align: justify;
+        font-size: 20px;
+        }
+
+    .subcontenedor2{
+        border: 10px solid white;
+        background-color: bisque;
+        width: 50%;
+        height: 100%;} 
+
+        .foto2 {
+        
+                    width: 200px;
+                    height: 300px;
+                    display: flex;}
+
+.pie{
+    width: 100%;
+    background-color: rgb(243, 239, 239);
+    height: 200px;
+    border: 10px solid color red;
+    display: flex;}
+    
+
+    .subpie{
+    display: flex;
+     width: 500px;
+     height: 100%;
+    }
+
+
+    #cinta p {
+        height: 100px;
+        width: 100%;
+        text-align: left;
+        color: rgb(202, 200, 206); 
+        font-size: 30px;   
+        background-color:  rgb(45, 58, 63);}
+
+        .footer {
+            height: 4rem;
+            background-color: #495092
+          }
+
+       
+                 
+
+                    
